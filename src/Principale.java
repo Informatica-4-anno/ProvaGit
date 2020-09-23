@@ -7,7 +7,9 @@ public class Principale {
 			v[i]=(int)Math.floor((Math.random()*99)+1);
 		}
 	}
-	
+	//
+	// Grande modifica
+	//
 	public static void stampa(int[] v) {
 		if (nostamp) return;
 		for (int i=0;i<v.length;i++) {
